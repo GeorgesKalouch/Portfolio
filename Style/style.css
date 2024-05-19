@@ -739,12 +739,14 @@ body.dark .switch::before{
 }
 
 #email,#subject,#name{
+    outline: none;
     border: 2px solid var(--primary-color);
     width: 100%;
     height: 40px
 }
 
 #message{
+    outline: none;
     border: 2px solid var(--primary-color);
 }
 
