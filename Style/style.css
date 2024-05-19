@@ -48,6 +48,7 @@
     --text-color:#000000;
     --grey-color:#1FAAEA;
     --primary-dark:#12263A;
+    --links-color:black;
 
     --tran-02:all 0.2s ease;
     --tran-03:all 0.3s ease;
@@ -73,6 +74,7 @@ body.dark{
     --text-color:#ffffff;
     --primary-dark:#ADA699;
     --grey-color:#897F6C;
+    --links-color:#ffffff;
 }
 
 
@@ -282,6 +284,11 @@ body.dark .switch::before{
     font-size: 25px;
     display:flex;
     justify-content: center;
+}
+
+.profile .social-links .bx{
+    color: var(--links-color);
+    transition: var(--tran-03);
 }
 
 .profile .social-links i{

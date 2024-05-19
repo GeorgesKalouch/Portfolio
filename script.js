@@ -48,5 +48,5 @@ image1.onclick = function(){
   window.open("https://github.com/GeorgesKalouch/ecommerce_project2")
 }
 image2.onclick = function(){
-  window.open("https://github.com/GeorgesKalouch/ecommerce_project2")
+  window.open("https://github.com/GeorgesKalouch/Portfolio")
 }
