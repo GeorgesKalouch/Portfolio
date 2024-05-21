@@ -50,3 +50,9 @@ image1.onclick = function(){
 image2.onclick = function(){
   window.open("https://github.com/GeorgesKalouch/Portfolio")
 }
+image3.onclick = function(){
+  window.open("https://github.com/GeorgesKalouch/")
+}
+image4.onclick = function(){
+  window.open("https://github.com/GeorgesKalouch/")
+}

@@ -74,7 +74,7 @@ body.dark{
     --text-color:#ffffff;
     --primary-dark:#ADA699;
     --grey-color:#897F6C;
-    --links-color:#ffffff;
+    --links-color:#FFFFFF;
 }
 
 
@@ -683,6 +683,7 @@ body.dark .switch::before{
 
 .y1{
     margin-top: 20px;
+    color: var(--text-color);
 }
 
 
@@ -769,7 +770,7 @@ body.dark .switch::before{
     cursor: pointer;
     display: inline-block;
     position: relative;
-    transition: var(--tran-05);
+    transition: var(--tran-04);
   }
   
 .button span:after {
