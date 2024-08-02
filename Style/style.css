@@ -212,8 +212,8 @@ header .image-text .header-text{
     display: flex;
     align-items: center;
 }
-
 .menu-bar .mode i{
+
     position: absolute;
     transition: var(--tran-03);
 }
